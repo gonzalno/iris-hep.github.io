@@ -1,8 +1,7 @@
 ---
 e-mail: gonzalno@stanford.edu
 institution: Stanford University
-codespell: ignore
-name: Noe Gonzalez
+name: Noe Gonzalez # codespell:ignore noe
 photo: "/assets/images/codas-hep/2026/noe-gonzalez.png"
 github-username: gonzalno
 linkedin-profile: NA
